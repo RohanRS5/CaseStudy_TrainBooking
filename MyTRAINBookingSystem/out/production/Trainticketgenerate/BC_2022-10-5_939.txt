@@ -1,0 +1,18 @@
+PNR				:	BC_2022-10-5_939
+TrainNo			:	1005
+Train Name		:	Brindavan Express
+From			:	Bangalore
+To				:	Chennai
+Travel Date		:	5/10/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Richa		18		F		1000.0
+Sania		23		F		1000.0
+Aditi		19		F		1000.0
+Sakshi		25		F		1000.0
+Anushka		26		F		1000.0
+
+Total Price: 5000.0

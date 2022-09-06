@@ -1,0 +1,16 @@
+PNR				:	BD_2022-9-21_939
+TrainNo			:	1001
+Train Name		:	Shatabdi Express
+From			:	Bangalore
+To				:	Delhi
+Travel Date		:	21/9/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Divya Agarwal		29		F		2500.0
+Rahul Agarwal		33		M		2500.0
+Abhay Agarwal		5		M		1250.0
+
+Total Price: 6250.0

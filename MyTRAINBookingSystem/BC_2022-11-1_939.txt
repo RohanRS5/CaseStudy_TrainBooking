@@ -1,0 +1,14 @@
+PNR				:	BC_2022-11-1_939
+TrainNo			:	1005
+Train Name		:	Brindavan Express
+From			:	Bangalore
+To				:	Chennai
+Travel Date		:	1/11/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Akhil Singh		54		M		1000.0
+
+Total Price: 1000.0

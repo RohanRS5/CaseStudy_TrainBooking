@@ -1,0 +1,14 @@
+PNR				:	BM_2022-11-29_939
+TrainNo			:	1003
+Train Name		:	Udyan Express
+From			:	Bangalore
+To				:	Mumbai
+Travel Date		:	29/11/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Shilpa Tiwari		29		F		1500.0
+
+Total Price: 1500.0

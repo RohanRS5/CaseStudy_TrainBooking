@@ -1,0 +1,15 @@
+PNR				:	MB_2022-12-15_939
+TrainNo			:	1004
+Train Name		:	Udyan Express
+From			:	Mumbai
+To				:	Bangalore
+Travel Date		:	15/12/2022
+
+Passengers:
+---------------------------------------------------------
+Name		Age		Gender		Fair
+---------------------------------------------------------
+Isha Singh		32		F		1500.0
+Divya Gupta		36		F		1500.0
+
+Total Price: 3000.0
